@@ -25,30 +25,26 @@
 
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,js" />
-</p>
-
-### 🌐 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🧰 Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" />
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
